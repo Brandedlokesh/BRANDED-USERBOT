@@ -11,7 +11,6 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://te.legra.ph/file/ea674ddd97348543123ac.mp4"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
@@ -36,7 +35,7 @@ async def alive(client: Client, message: Message):
        await message.delete()
     except:
        pass
-    send = client.send_video if alive_logo.endswith(".mp4") else client.send_photo
+
     xd = (f"{txt}")
     try:
         await asyncio.gather(
