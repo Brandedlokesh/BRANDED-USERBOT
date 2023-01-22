@@ -11,27 +11,27 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://telegra.ph/file/cc0890d0876bc18c19e05.jpg"
+alive_logo = ALIVE_PIC or "https://graph.org/file/c7e675343861c6568b144.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ✘ zαι∂ υѕєявσт ✘**\n\n"
+        f"** ✘༒︎🚬𝗣𝗢𝗜𝗦𝗘𝗡 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧🚬 ༒︎✘**\n\n"
         f"❏ **νєяѕισи**: `2.1`\n"
         f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **ρутнσи**: `{python_version()}`\n"
         f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/TheSupportChat)\n"
-        f"├• **¢нαииєℓ**: [Click](t.me/TheUpdatesChannel)\n"
-        f"└• **яєρσ**: [Click](https://GitHub.com/itz-zaid/Zaid-Userbot)"        
+        f"├• **ѕυρρσят**: [Click](https://t.me/friends_hindi_chatting_group_126)\n"
+        f"├• **¢нαииєℓ**: [Click](https://t.me/friends_hindi_chatting_group_126)\n"
+        f"└• **яєρσ**: [Click](𝐀𝐔𝐊𝐀𝐓 𝐁𝐀𝐍𝐀 𝐁𝐒𝐃𝐊 𝐏𝐄𝐇𝐋𝐄 𝐏𝐇𝐈𝐑 𝐀𝐀𝐍𝐀)"        
     )
 
 @Client.on_message(
     filters.command(["alive", "awake"], ".") & (filters.me | filters.user(SUDO_USER))
 )
 async def alive(client: Client, message: Message):
-    xx = await message.reply_text("⚡️")
+    xx = await message.reply_text("🚬🥂🦋")
     try:
        await message.delete()
     except:
@@ -53,7 +53,7 @@ async def alive(client: Client, message: Message):
 
 @Client.on_message(filters.command("repo", ".") & filters.me)
 async def repo(bot: Client, message: Message):
-    await message.edit("⚡")
+    await message.edit("🚬🥂🦋")
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
