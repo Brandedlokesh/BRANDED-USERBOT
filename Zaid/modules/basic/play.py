@@ -1,4 +1,8 @@
-
+"BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
                     caption=f"""
 **▶ Now Meow userbot playing video {pos}
 🏷️ Song name: [{songname}]
