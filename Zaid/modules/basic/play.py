@@ -1,5 +1,4 @@
-                await m.reply_photo(
-                    photo="https://telegra.ph/file/18d25616d9883400af112.png",
+
                     caption=f"""
 **▶ Now Meow userbot playing video {pos}
 🏷️ Song name: [{songname}]
