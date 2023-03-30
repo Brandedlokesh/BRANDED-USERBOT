@@ -81,7 +81,7 @@ async def pingme(client: Client, message: Message):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await xx.edit(
-        f"❏ ** ❥︎🚬🦋 𝐏𝐎𝐈𝐒𝐄𝐍 𝐁𝐎𝐓 𝐅𝐈𝐑𝐄 𝐎𝐍 𝐃𝐄𝐀𝐑 **\n"
+        f"❏ ** ❥︎🚬🦋 𝐅𝐈𝐃𝐀𝐀 𝐁𝐎𝐓 𝐅𝐈𝐑𝐄 𝐎𝐍 𝐃𝐄𝐀𝐑 **\n"
         f"├• ** 🚬🦋** - `%sms`\n"
         f"├• ** 🚬🦋 -** `{uptime}` \n"
         f"└• ** 🚬🦋:** {client.me.mention}" % (duration)
