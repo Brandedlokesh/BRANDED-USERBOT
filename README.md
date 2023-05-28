@@ -22,7 +22,7 @@
 
 ## String Session
 
-<p align="center"><a href="https://t.me/String_sessionkhushi_bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/http://t.me/BRANDEDMUSIC1_BOT"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒
@@ -31,7 +31,7 @@
 
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
 
-<p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDED-USERBOT"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
