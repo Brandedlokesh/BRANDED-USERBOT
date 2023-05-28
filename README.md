@@ -10,7 +10,7 @@
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WCGKING&repo=BRANDED-USERBOT&theme=dark)
 
 
 ## Requirements 
@@ -52,8 +52,8 @@ Checkout Tutorial!
 ```console
 Zaid@Debian~ $ apt-get -y update
 Zaid@Debian~ $ apt-get -y install git gcc python3-pip -y
-Zaid@Debian~ $ git clone https://github.com/WCGKING/ZAID-USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
+Zaid@Debian~ $ git clone https://github.com/WCGKING/BRANDED-USERBOT
+Zaid@Debian~ $ cd BRAMDED-USERBOT
 Zaid@Debian~ $ pip3 install -U -r requirements.txt
 Zaid@Debian~ $ cp sample.env .env
 Zaid@Debian~ $ nano .env
