@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐁𝐫𝐚𝐧𝐝𝐞𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center"> BRANDED USERBOT🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
