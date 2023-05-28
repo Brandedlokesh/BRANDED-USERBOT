@@ -1,12 +1,12 @@
 {
-    "name": "Zaid Userbot",
+    "name": "BRANDED USER BOT",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/WCGKING/ZAID-USERBOT",
+    "repository": "https://github.com/WCGKING/BRANDED-USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://t.me/String_sessionkhushi_bot",
+            "description": "fill with the telethon session string from http://t.me/BRANDEDSTRINGSESSION_BOT",
             "required": true
         },
         "MONGO_URL": {
@@ -15,12 +15,12 @@
             "value": ""
         },
         "SUDO_USERS": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to @Khushi_chat_bot pm and type /id",
             "required": true,
             "value": "BRANDED_WORLD"
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to @Khushi_chat_botpm and type /id",
             "required": true,
             "value": "6258877205"
         },
